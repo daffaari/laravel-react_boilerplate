@@ -1,6 +1,6 @@
 # Laravel 12 Inertia React Boilerplate
 
-A modern **Laravel 12 boilerplate** using **Inertia.js + React** for building fast, single-page applications without a separate API layer.
+A modern **Laravel 12 + Inertia (React) boilerplate** for building fast, single-page applications without a separate API layer.
 
 This project comes with **User CRUD**, **Toastr notifications**, and a clean, scalable structure ready for real-world applications.
 
